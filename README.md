@@ -1,5 +1,9 @@
 # Complete Beginner's Guide to AI and Machine Learning
 
+> **New: [AI Engineer Roadmap](AI-Engineer-Roadmap/README.md).** A complete, project-driven path for building products on top of LLMs and other pre-trained models: LLM APIs, prompt and context engineering, RAG, agents and MCP, evals and observability, security, fine-tuning, deployment, multimodal apps, study plans and interview prep. It builds on the machine learning foundations in this guide. See the diagrams in the [Visual Roadmap](AI-Engineer-Roadmap/00-visual-roadmap.md) (whole path, prompt-engineering path and one graph per stage).
+
+> **Also new: [Machine Learning, MLOps and DevOps roadmaps](Roadmaps/README.md).** Three more step-by-step guides with a coverage checklist each: the [Machine Learning roadmap](Roadmaps/machine-learning-roadmap.md) (math, Python, classical ML, evaluation, deep learning), the [DevOps roadmap](Roadmaps/devops-roadmap.md) (Linux, Git, containers, networking, cloud, IaC, CI/CD, observability, Kubernetes, GitOps) and the [MLOps roadmap](Roadmaps/mlops-roadmap.md) (versioning, pipelines, serving, monitoring, edge AI, explainability).
+
 ## What Python Libraries Are Used to Create ML Models?
 
 ### Core Machine Learning Libraries
