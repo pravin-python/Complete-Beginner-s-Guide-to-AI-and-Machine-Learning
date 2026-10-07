@@ -51,6 +51,7 @@ These guides are independently written for this repository. Their topic coverage
 
 ## How to use these guides
 
+- **Hinglish boxes for beginners.** Under every stage and every topic heading there is a quoted box titled "Hinglish me samjho (simple language)". It explains the idea in simple Roman Hindi with an everyday comparison, then gives a small step-by-step example (what to type and what you will see) and the most common mistake. The detailed English text stays right below the box, so you can read the simple version first and then the technical one. Commands in the boxes are meant for a practice folder or sandbox; read any "Safai" (clean-up) step and the warnings before you run it.
 - Follow the stages in order the first time through, then use the table of contents to revisit single topics.
 - Where a stage lists several tools, treat them as alternatives: pick one, learn it well, and understand the concept it implements, because the concept outlives the tool.
 - Do the "Try it" exercise and the "Self-check" list at the end of every stage before moving on; tick an item only when you can show working code, a passing run or a measured result.
